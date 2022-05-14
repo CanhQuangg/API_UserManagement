@@ -3,8 +3,8 @@
   
 <p>
   <b>Tạo file config.env và thêm nội dung</b> </br>
-  PORT=3000
-  MONGO_URI=mongodb+srv://quangnc:canhquang2001@cluster0.2kj7f.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+    PORT=3000
+    MONGO_URI=mongodb+srv://quangnc:canhquang2001@cluster0.2kj7f.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
 </p>
  
 API routes:
