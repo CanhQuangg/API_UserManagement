@@ -11,15 +11,17 @@
 </p>
  
 <h2>API routes:</h2>
-  <h4>/api/users:</h4>
+  <h3>/api/users:</h3>
   <p>
     <b>get</b>: Hiển thị tất cả dữ liệu User từ cơ sở dữ liệu
     <b>post</b>: Tạo User mới
-  </p>
+  </p></br>
   
-  /api/user/:id
-    put: Cập nhật User đã tồn tại trên cơ sở dữ liệu
-    delete: Xóa User
+  <h3>/api/user/:id<h3>
+  <p>
+    <b>put</b>: Cập nhật User đã tồn tại trên cơ sở dữ liệu
+    <b>delete</b>: Xóa User
+  </p></br>
   
   /api/user/?id=<userId>
     Dùng để hiển thị User theo Id
