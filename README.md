@@ -28,5 +28,7 @@
     Dùng để hiển thị User theo Id
     </p></br>
     
-<h2>API Documentation path</h2>:<p>/api-docs</p>
-  
+<h2>API Documentation path:</h2>
+<p>localhost:3000/api-docs</p>
+
+<h2>Config.env</h2>
