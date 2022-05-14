@@ -13,17 +13,20 @@
 <h2>API routes:</h2>
   <h3>/api/users:</h3>
   <p>
-    <b>get</b>: Hiển thị tất cả dữ liệu User từ cơ sở dữ liệu
+    <b>get</b>: Hiển thị tất cả dữ liệu User từ cơ sở dữ liệu</br>
     <b>post</b>: Tạo User mới
   </p></br>
   
-  <h3>/api/user/:id<h3>
+  <h3>/api/user/:id</h3>
   <p>
-    <b>put</b>: Cập nhật User đã tồn tại trên cơ sở dữ liệu
+    <b>put</b>: Cập nhật User đã tồn tại trên cơ sở dữ liệu</br>
     <b>delete</b>: Xóa User
   </p></br>
   
-  /api/user/?id=<userId>
+  <h3>/api/user/?id=userId</h3>
+    <p>
     Dùng để hiển thị User theo Id
-  
+    </p></br>
+    
+<h2>API Documentation path</h2>:<p>/api-docs</p>
   
