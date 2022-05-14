@@ -28,7 +28,13 @@
     Dùng để hiển thị User theo Id
     </p></br>
     
-<h2>API Documentation path:</h2>
-<p>localhost:3000/api-docs</p>
+<h2>API Documentation path</h2>
+<p>localhost:3000/api-docs</p></br>
 
-<h2>Config.env</h2>
+<h2>Khởi chạy server</h2>
+<p>
+  <b>npm install</b></br>
+  Tạo file <b>config.env</b> và thêm vào nội dung ở mục trên </br>
+  <b>npm start</b></br>
+  Truy cập <b>localhost:3000</b> để vào ứng dụng
+</p>
