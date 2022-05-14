@@ -10,10 +10,12 @@
   </i></br>
 </p>
  
-API routes:
+<h2>API routes:</h2>
   <h4>/api/users:</h4>
-    get: Hiển thị tất cả dữ liệu User từ cơ sở dữ liệu
-    post: Tạo User mới
+  <p>
+    <b>get</b>: Hiển thị tất cả dữ liệu User từ cơ sở dữ liệu
+    <b>post</b>: Tạo User mới
+  </p>
   
   /api/user/:id
     put: Cập nhật User đã tồn tại trên cơ sở dữ liệu
